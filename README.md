@@ -1,4 +1,3 @@
-# Lottery
-年会抽奖系统
-使用了部分css3动画
-显示获奖名单等等
+# Lottery Funtion
+* start() //开始
+* stop() //结束
